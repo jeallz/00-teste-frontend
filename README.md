@@ -17,10 +17,10 @@ Você vai criar um fork desse repo, vai executar a demanda, e quando estiver pro
 Como mencionado antes você só precisa criar uma tela de login. Aqui está ela:
 
 **Tema claro:**
-![Tema claro](./imagens/00-login/Tela - Claro - nãoLogado.jpg)
+![Tema claro](./imagens/00-login/Tela-Claro-naoLogado.jpg)
 
 **Tema Escuro:**
-![Tema escuro](./imagens/00-login/Tela - Escuro - nãoLogado.jpg)
+![Tema escuro](./imagens/00-login/Tela-Escuro-naoLogado.jpg)
 
 > Todas as imagens estão na pasta 'imagens/' para consulta.
 
